@@ -1,0 +1,6 @@
+D:\SUM23\PRN211\winform_beginner\date_picker\MDI_Applicaiton\MDI_Applicaiton\obj\Debug\MDI_Applicaiton.csproj.AssemblyReference.cache
+D:\SUM23\PRN211\winform_beginner\date_picker\MDI_Applicaiton\MDI_Applicaiton\obj\Debug\MDI_Applicaiton.csproj.SuggestedBindingRedirects.cache
+D:\SUM23\PRN211\winform_beginner\date_picker\MDI_Applicaiton\MDI_Applicaiton\obj\Debug\MDI_Applicaiton.Form1.resources
+D:\SUM23\PRN211\winform_beginner\date_picker\MDI_Applicaiton\MDI_Applicaiton\obj\Debug\MDI_Applicaiton.Properties.Resources.resources
+D:\SUM23\PRN211\winform_beginner\date_picker\MDI_Applicaiton\MDI_Applicaiton\obj\Debug\MDI_Applicaiton.csproj.GenerateResource.cache
+D:\SUM23\PRN211\winform_beginner\date_picker\MDI_Applicaiton\MDI_Applicaiton\obj\Debug\MDI_Applicaiton.csproj.CoreCompileInputs.cache

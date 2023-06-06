@@ -1,0 +1,11 @@
+D:\SUM23\PRN211\winform_beginner\db_con\ConnectDB\ConnectDB\bin\Debug\ConnectDB.exe.config
+D:\SUM23\PRN211\winform_beginner\db_con\ConnectDB\ConnectDB\bin\Debug\ConnectDB.exe
+D:\SUM23\PRN211\winform_beginner\db_con\ConnectDB\ConnectDB\bin\Debug\ConnectDB.pdb
+D:\SUM23\PRN211\winform_beginner\db_con\ConnectDB\ConnectDB\obj\Debug\ConnectDB.csproj.AssemblyReference.cache
+D:\SUM23\PRN211\winform_beginner\db_con\ConnectDB\ConnectDB\obj\Debug\ConnectDB.csproj.SuggestedBindingRedirects.cache
+D:\SUM23\PRN211\winform_beginner\db_con\ConnectDB\ConnectDB\obj\Debug\ConnectDB.Form1.resources
+D:\SUM23\PRN211\winform_beginner\db_con\ConnectDB\ConnectDB\obj\Debug\ConnectDB.Properties.Resources.resources
+D:\SUM23\PRN211\winform_beginner\db_con\ConnectDB\ConnectDB\obj\Debug\ConnectDB.csproj.GenerateResource.cache
+D:\SUM23\PRN211\winform_beginner\db_con\ConnectDB\ConnectDB\obj\Debug\ConnectDB.csproj.CoreCompileInputs.cache
+D:\SUM23\PRN211\winform_beginner\db_con\ConnectDB\ConnectDB\obj\Debug\ConnectDB.exe
+D:\SUM23\PRN211\winform_beginner\db_con\ConnectDB\ConnectDB\obj\Debug\ConnectDB.pdb

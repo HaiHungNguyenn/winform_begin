@@ -1,0 +1,11 @@
+D:\SUM23\PRN211\winform_beginner\date_picker\menu_strips\menu_strips\bin\Debug\menu_strips.exe.config
+D:\SUM23\PRN211\winform_beginner\date_picker\menu_strips\menu_strips\bin\Debug\menu_strips.exe
+D:\SUM23\PRN211\winform_beginner\date_picker\menu_strips\menu_strips\bin\Debug\menu_strips.pdb
+D:\SUM23\PRN211\winform_beginner\date_picker\menu_strips\menu_strips\obj\Debug\menu_strips.csproj.AssemblyReference.cache
+D:\SUM23\PRN211\winform_beginner\date_picker\menu_strips\menu_strips\obj\Debug\menu_strips.csproj.SuggestedBindingRedirects.cache
+D:\SUM23\PRN211\winform_beginner\date_picker\menu_strips\menu_strips\obj\Debug\menu_strips.Form1.resources
+D:\SUM23\PRN211\winform_beginner\date_picker\menu_strips\menu_strips\obj\Debug\menu_strips.Properties.Resources.resources
+D:\SUM23\PRN211\winform_beginner\date_picker\menu_strips\menu_strips\obj\Debug\menu_strips.csproj.GenerateResource.cache
+D:\SUM23\PRN211\winform_beginner\date_picker\menu_strips\menu_strips\obj\Debug\menu_strips.csproj.CoreCompileInputs.cache
+D:\SUM23\PRN211\winform_beginner\date_picker\menu_strips\menu_strips\obj\Debug\menu_strips.exe
+D:\SUM23\PRN211\winform_beginner\date_picker\menu_strips\menu_strips\obj\Debug\menu_strips.pdb

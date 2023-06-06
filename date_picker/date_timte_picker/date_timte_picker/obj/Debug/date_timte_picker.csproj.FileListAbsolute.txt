@@ -1,0 +1,11 @@
+D:\SUM23\PRN211\winform_beginner\date_picker\date_timte_picker\date_timte_picker\bin\Debug\date_timte_picker.exe.config
+D:\SUM23\PRN211\winform_beginner\date_picker\date_timte_picker\date_timte_picker\bin\Debug\date_timte_picker.exe
+D:\SUM23\PRN211\winform_beginner\date_picker\date_timte_picker\date_timte_picker\bin\Debug\date_timte_picker.pdb
+D:\SUM23\PRN211\winform_beginner\date_picker\date_timte_picker\date_timte_picker\obj\Debug\date_timte_picker.csproj.AssemblyReference.cache
+D:\SUM23\PRN211\winform_beginner\date_picker\date_timte_picker\date_timte_picker\obj\Debug\date_timte_picker.csproj.SuggestedBindingRedirects.cache
+D:\SUM23\PRN211\winform_beginner\date_picker\date_timte_picker\date_timte_picker\obj\Debug\date_timte_picker.Form1.resources
+D:\SUM23\PRN211\winform_beginner\date_picker\date_timte_picker\date_timte_picker\obj\Debug\date_timte_picker.Properties.Resources.resources
+D:\SUM23\PRN211\winform_beginner\date_picker\date_timte_picker\date_timte_picker\obj\Debug\date_timte_picker.csproj.GenerateResource.cache
+D:\SUM23\PRN211\winform_beginner\date_picker\date_timte_picker\date_timte_picker\obj\Debug\date_timte_picker.csproj.CoreCompileInputs.cache
+D:\SUM23\PRN211\winform_beginner\date_picker\date_timte_picker\date_timte_picker\obj\Debug\date_timte_picker.exe
+D:\SUM23\PRN211\winform_beginner\date_picker\date_timte_picker\date_timte_picker\obj\Debug\date_timte_picker.pdb

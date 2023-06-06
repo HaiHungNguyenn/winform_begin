@@ -1,0 +1,11 @@
+D:\SUM23\PRN211\winform_beginner\date_picker\timer\timer\bin\Debug\timer.exe.config
+D:\SUM23\PRN211\winform_beginner\date_picker\timer\timer\bin\Debug\timer.exe
+D:\SUM23\PRN211\winform_beginner\date_picker\timer\timer\bin\Debug\timer.pdb
+D:\SUM23\PRN211\winform_beginner\date_picker\timer\timer\obj\Debug\timer.csproj.AssemblyReference.cache
+D:\SUM23\PRN211\winform_beginner\date_picker\timer\timer\obj\Debug\timer.csproj.SuggestedBindingRedirects.cache
+D:\SUM23\PRN211\winform_beginner\date_picker\timer\timer\obj\Debug\timer.Form1.resources
+D:\SUM23\PRN211\winform_beginner\date_picker\timer\timer\obj\Debug\timer.Properties.Resources.resources
+D:\SUM23\PRN211\winform_beginner\date_picker\timer\timer\obj\Debug\timer.csproj.GenerateResource.cache
+D:\SUM23\PRN211\winform_beginner\date_picker\timer\timer\obj\Debug\timer.csproj.CoreCompileInputs.cache
+D:\SUM23\PRN211\winform_beginner\date_picker\timer\timer\obj\Debug\timer.exe
+D:\SUM23\PRN211\winform_beginner\date_picker\timer\timer\obj\Debug\timer.pdb
