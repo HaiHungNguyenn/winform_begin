@@ -1,0 +1,11 @@
+D:\SUM23\PRN211\winform_beginner\create-winform\EmployeesDetails\EmployeesDetails\obj\Debug\EmployeesDetails.csproj.AssemblyReference.cache
+D:\SUM23\PRN211\winform_beginner\create-winform\EmployeesDetails\EmployeesDetails\obj\Debug\EmployeesDetails.csproj.SuggestedBindingRedirects.cache
+D:\SUM23\PRN211\winform_beginner\create-winform\EmployeesDetails\EmployeesDetails\obj\Debug\EmployeesDetails.frmEmployeesDetails.resources
+D:\SUM23\PRN211\winform_beginner\create-winform\EmployeesDetails\EmployeesDetails\obj\Debug\EmployeesDetails.Properties.Resources.resources
+D:\SUM23\PRN211\winform_beginner\create-winform\EmployeesDetails\EmployeesDetails\obj\Debug\EmployeesDetails.csproj.GenerateResource.cache
+D:\SUM23\PRN211\winform_beginner\create-winform\EmployeesDetails\EmployeesDetails\obj\Debug\EmployeesDetails.csproj.CoreCompileInputs.cache
+D:\SUM23\PRN211\winform_beginner\create-winform\EmployeesDetails\EmployeesDetails\bin\Debug\EmployeesDetails.exe.config
+D:\SUM23\PRN211\winform_beginner\create-winform\EmployeesDetails\EmployeesDetails\bin\Debug\EmployeesDetails.exe
+D:\SUM23\PRN211\winform_beginner\create-winform\EmployeesDetails\EmployeesDetails\bin\Debug\EmployeesDetails.pdb
+D:\SUM23\PRN211\winform_beginner\create-winform\EmployeesDetails\EmployeesDetails\obj\Debug\EmployeesDetails.exe
+D:\SUM23\PRN211\winform_beginner\create-winform\EmployeesDetails\EmployeesDetails\obj\Debug\EmployeesDetails.pdb
