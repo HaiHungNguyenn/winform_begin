@@ -1,0 +1,17 @@
+D:\SUM23\PRN211\winform_beginner\DataGridView2\DataGridView2\bin\Debug\net6.0-windows\DataGridView2.exe
+D:\SUM23\PRN211\winform_beginner\DataGridView2\DataGridView2\bin\Debug\net6.0-windows\DataGridView2.deps.json
+D:\SUM23\PRN211\winform_beginner\DataGridView2\DataGridView2\bin\Debug\net6.0-windows\DataGridView2.runtimeconfig.json
+D:\SUM23\PRN211\winform_beginner\DataGridView2\DataGridView2\bin\Debug\net6.0-windows\DataGridView2.dll
+D:\SUM23\PRN211\winform_beginner\DataGridView2\DataGridView2\bin\Debug\net6.0-windows\DataGridView2.pdb
+D:\SUM23\PRN211\winform_beginner\DataGridView2\DataGridView2\obj\Debug\net6.0-windows\DataGridView2.csproj.AssemblyReference.cache
+D:\SUM23\PRN211\winform_beginner\DataGridView2\DataGridView2\obj\Debug\net6.0-windows\DataGridView2.Form1.resources
+D:\SUM23\PRN211\winform_beginner\DataGridView2\DataGridView2\obj\Debug\net6.0-windows\DataGridView2.csproj.GenerateResource.cache
+D:\SUM23\PRN211\winform_beginner\DataGridView2\DataGridView2\obj\Debug\net6.0-windows\DataGridView2.GeneratedMSBuildEditorConfig.editorconfig
+D:\SUM23\PRN211\winform_beginner\DataGridView2\DataGridView2\obj\Debug\net6.0-windows\DataGridView2.AssemblyInfoInputs.cache
+D:\SUM23\PRN211\winform_beginner\DataGridView2\DataGridView2\obj\Debug\net6.0-windows\DataGridView2.AssemblyInfo.cs
+D:\SUM23\PRN211\winform_beginner\DataGridView2\DataGridView2\obj\Debug\net6.0-windows\DataGridView2.csproj.CoreCompileInputs.cache
+D:\SUM23\PRN211\winform_beginner\DataGridView2\DataGridView2\obj\Debug\net6.0-windows\DataGridView2.dll
+D:\SUM23\PRN211\winform_beginner\DataGridView2\DataGridView2\obj\Debug\net6.0-windows\refint\DataGridView2.dll
+D:\SUM23\PRN211\winform_beginner\DataGridView2\DataGridView2\obj\Debug\net6.0-windows\DataGridView2.pdb
+D:\SUM23\PRN211\winform_beginner\DataGridView2\DataGridView2\obj\Debug\net6.0-windows\DataGridView2.genruntimeconfig.cache
+D:\SUM23\PRN211\winform_beginner\DataGridView2\DataGridView2\obj\Debug\net6.0-windows\ref\DataGridView2.dll

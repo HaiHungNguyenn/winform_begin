@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -40,24 +41,39 @@ namespace EmployeesDetails
 
         private void btnSave_Click(object sender, EventArgs e)
         {
-            String EmployeeID = txtEmployeeID.Text;
-            String EmployeeNme = txtEmployeeName.Text;
-            String Phone = mtxtPhone.Text;
-            String Gender = (rdFemale.Checked ? "Female" : "Male");
-            String Degree = cboDegree.Text;
-            StringBuilder builder = new StringBuilder();
-            builder.Append($"Employee ID:{EmployeeID}\n");
-            builder.Append($"Employee Name:{EmployeeNme}\n");
-            builder.Append($"Phone:{Phone}\n");
-            builder.Append($"Gender:{Gender}\n");
-            builder.Append($"Degree ID:{Degree}\n");
-            MessageBox.Show(builder.ToString(),"Employee Details");
+            
+            string employeeID = txtEmployeeID.Text;
+            string employeeName = txtEmployeeName.Text;
+            string phone = mtxtPhone.Text;
+            string degree = cboDegree.SelectedItem.ToString();
+            string gender = (rdFemale.Checked ? "Female" : "Male");
+
+            string data = $"{employeeID},{employeeName},{phone},{degree},{gender}";
+
+            try
+            {
+                using (StreamWriter writer = new StreamWriter("Employee.txt", true))
+                {
+                    writer.WriteLine(data);
+                }
+
+                MessageBox.Show("Information saved successfully!");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"An error occurred while saving the information: {ex.Message}");
+            }
 
         }
 
         private void btnCancel_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void lbTitle_Click_1(object sender, EventArgs e)
+        {
+
         }
     }
 }

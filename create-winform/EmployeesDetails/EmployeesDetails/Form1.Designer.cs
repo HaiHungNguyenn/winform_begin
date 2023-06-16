@@ -57,8 +57,8 @@ namespace EmployeesDetails
             this.btnCancel = new System.Windows.Forms.Button();
             this.lbGender = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.rdMale = new System.Windows.Forms.RadioButton();
             this.rdFemale = new System.Windows.Forms.RadioButton();
+            this.rdMale = new System.Windows.Forms.RadioButton();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -70,7 +70,8 @@ namespace EmployeesDetails
             this.lbTitle.Name = "lbTitle";
             this.lbTitle.Size = new System.Drawing.Size(200, 30);
             this.lbTitle.TabIndex = 0;
-            this.lbTitle.Text = "Title";
+            this.lbTitle.Text = "Employee Details";
+            this.lbTitle.Click += new System.EventHandler(this.lbTitle_Click_1);
             // 
             // lbEmpID
             // 
@@ -179,17 +180,6 @@ namespace EmployeesDetails
             this.groupBox1.TabStop = false;
             this.groupBox1.Enter += new System.EventHandler(this.groupBox1_Enter);
             // 
-            // rdMale
-            // 
-            this.rdMale.AutoSize = true;
-            this.rdMale.Checked = true;
-            this.rdMale.Location = new System.Drawing.Point(19, 24);
-            this.rdMale.Name = "rdMale";
-            this.rdMale.Size = new System.Drawing.Size(48, 17);
-            this.rdMale.TabIndex = 0;
-            this.rdMale.Text = "Male";
-            this.rdMale.UseVisualStyleBackColor = true;
-            // 
             // rdFemale
             // 
             this.rdFemale.AutoSize = true;
@@ -199,6 +189,18 @@ namespace EmployeesDetails
             this.rdFemale.TabIndex = 1;
             this.rdFemale.Text = "Female";
             this.rdFemale.UseVisualStyleBackColor = true;
+            // 
+            // rdMale
+            // 
+            this.rdMale.AutoSize = true;
+            this.rdMale.Checked = true;
+            this.rdMale.Location = new System.Drawing.Point(19, 24);
+            this.rdMale.Name = "rdMale";
+            this.rdMale.Size = new System.Drawing.Size(48, 17);
+            this.rdMale.TabIndex = 0;
+            this.rdMale.TabStop = true;
+            this.rdMale.Text = "Male";
+            this.rdMale.UseVisualStyleBackColor = true;
             // 
             // frmEmployeesDetails
             // 

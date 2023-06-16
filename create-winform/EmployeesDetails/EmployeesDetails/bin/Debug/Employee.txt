@@ -1,0 +1,2 @@
+E01,Hai,092-1111111,Bachelor,Male
+E02,Test Employee,012-2222333,Ph. D.,Male

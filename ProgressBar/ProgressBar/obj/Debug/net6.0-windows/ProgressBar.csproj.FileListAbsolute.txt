@@ -1,0 +1,17 @@
+D:\SUM23\PRN211\winform_beginner\ProgressBar\ProgressBar\bin\Debug\net6.0-windows\ProgressBar.exe
+D:\SUM23\PRN211\winform_beginner\ProgressBar\ProgressBar\bin\Debug\net6.0-windows\ProgressBar.deps.json
+D:\SUM23\PRN211\winform_beginner\ProgressBar\ProgressBar\bin\Debug\net6.0-windows\ProgressBar.runtimeconfig.json
+D:\SUM23\PRN211\winform_beginner\ProgressBar\ProgressBar\bin\Debug\net6.0-windows\ProgressBar.dll
+D:\SUM23\PRN211\winform_beginner\ProgressBar\ProgressBar\bin\Debug\net6.0-windows\ProgressBar.pdb
+D:\SUM23\PRN211\winform_beginner\ProgressBar\ProgressBar\obj\Debug\net6.0-windows\ProgressBar.csproj.AssemblyReference.cache
+D:\SUM23\PRN211\winform_beginner\ProgressBar\ProgressBar\obj\Debug\net6.0-windows\ProgressBar.Form1.resources
+D:\SUM23\PRN211\winform_beginner\ProgressBar\ProgressBar\obj\Debug\net6.0-windows\ProgressBar.csproj.GenerateResource.cache
+D:\SUM23\PRN211\winform_beginner\ProgressBar\ProgressBar\obj\Debug\net6.0-windows\ProgressBar.GeneratedMSBuildEditorConfig.editorconfig
+D:\SUM23\PRN211\winform_beginner\ProgressBar\ProgressBar\obj\Debug\net6.0-windows\ProgressBar.AssemblyInfoInputs.cache
+D:\SUM23\PRN211\winform_beginner\ProgressBar\ProgressBar\obj\Debug\net6.0-windows\ProgressBar.AssemblyInfo.cs
+D:\SUM23\PRN211\winform_beginner\ProgressBar\ProgressBar\obj\Debug\net6.0-windows\ProgressBar.csproj.CoreCompileInputs.cache
+D:\SUM23\PRN211\winform_beginner\ProgressBar\ProgressBar\obj\Debug\net6.0-windows\ProgressBar.dll
+D:\SUM23\PRN211\winform_beginner\ProgressBar\ProgressBar\obj\Debug\net6.0-windows\refint\ProgressBar.dll
+D:\SUM23\PRN211\winform_beginner\ProgressBar\ProgressBar\obj\Debug\net6.0-windows\ProgressBar.pdb
+D:\SUM23\PRN211\winform_beginner\ProgressBar\ProgressBar\obj\Debug\net6.0-windows\ProgressBar.genruntimeconfig.cache
+D:\SUM23\PRN211\winform_beginner\ProgressBar\ProgressBar\obj\Debug\net6.0-windows\ref\ProgressBar.dll

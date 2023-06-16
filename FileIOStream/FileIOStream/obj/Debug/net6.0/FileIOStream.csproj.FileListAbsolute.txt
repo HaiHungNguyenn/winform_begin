@@ -1,0 +1,15 @@
+D:\SUM23\PRN211\winform_beginner\FileIOStream\FileIOStream\obj\Debug\net6.0\FileIOStream.csproj.AssemblyReference.cache
+D:\SUM23\PRN211\winform_beginner\FileIOStream\FileIOStream\obj\Debug\net6.0\FileIOStream.GeneratedMSBuildEditorConfig.editorconfig
+D:\SUM23\PRN211\winform_beginner\FileIOStream\FileIOStream\obj\Debug\net6.0\FileIOStream.AssemblyInfoInputs.cache
+D:\SUM23\PRN211\winform_beginner\FileIOStream\FileIOStream\obj\Debug\net6.0\FileIOStream.AssemblyInfo.cs
+D:\SUM23\PRN211\winform_beginner\FileIOStream\FileIOStream\obj\Debug\net6.0\FileIOStream.csproj.CoreCompileInputs.cache
+D:\SUM23\PRN211\winform_beginner\FileIOStream\FileIOStream\bin\Debug\net6.0\FileIOStream.exe
+D:\SUM23\PRN211\winform_beginner\FileIOStream\FileIOStream\bin\Debug\net6.0\FileIOStream.deps.json
+D:\SUM23\PRN211\winform_beginner\FileIOStream\FileIOStream\bin\Debug\net6.0\FileIOStream.runtimeconfig.json
+D:\SUM23\PRN211\winform_beginner\FileIOStream\FileIOStream\bin\Debug\net6.0\FileIOStream.dll
+D:\SUM23\PRN211\winform_beginner\FileIOStream\FileIOStream\bin\Debug\net6.0\FileIOStream.pdb
+D:\SUM23\PRN211\winform_beginner\FileIOStream\FileIOStream\obj\Debug\net6.0\FileIOStream.dll
+D:\SUM23\PRN211\winform_beginner\FileIOStream\FileIOStream\obj\Debug\net6.0\refint\FileIOStream.dll
+D:\SUM23\PRN211\winform_beginner\FileIOStream\FileIOStream\obj\Debug\net6.0\FileIOStream.pdb
+D:\SUM23\PRN211\winform_beginner\FileIOStream\FileIOStream\obj\Debug\net6.0\FileIOStream.genruntimeconfig.cache
+D:\SUM23\PRN211\winform_beginner\FileIOStream\FileIOStream\obj\Debug\net6.0\ref\FileIOStream.dll

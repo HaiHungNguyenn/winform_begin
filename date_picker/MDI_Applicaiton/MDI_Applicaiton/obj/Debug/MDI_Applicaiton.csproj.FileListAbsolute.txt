@@ -4,3 +4,8 @@ D:\SUM23\PRN211\winform_beginner\date_picker\MDI_Applicaiton\MDI_Applicaiton\obj
 D:\SUM23\PRN211\winform_beginner\date_picker\MDI_Applicaiton\MDI_Applicaiton\obj\Debug\MDI_Applicaiton.Properties.Resources.resources
 D:\SUM23\PRN211\winform_beginner\date_picker\MDI_Applicaiton\MDI_Applicaiton\obj\Debug\MDI_Applicaiton.csproj.GenerateResource.cache
 D:\SUM23\PRN211\winform_beginner\date_picker\MDI_Applicaiton\MDI_Applicaiton\obj\Debug\MDI_Applicaiton.csproj.CoreCompileInputs.cache
+D:\SUM23\PRN211\winform_beginner\date_picker\MDI_Applicaiton\MDI_Applicaiton\bin\Debug\MDI_Applicaiton.exe.config
+D:\SUM23\PRN211\winform_beginner\date_picker\MDI_Applicaiton\MDI_Applicaiton\bin\Debug\MDI_Applicaiton.exe
+D:\SUM23\PRN211\winform_beginner\date_picker\MDI_Applicaiton\MDI_Applicaiton\bin\Debug\MDI_Applicaiton.pdb
+D:\SUM23\PRN211\winform_beginner\date_picker\MDI_Applicaiton\MDI_Applicaiton\obj\Debug\MDI_Applicaiton.exe
+D:\SUM23\PRN211\winform_beginner\date_picker\MDI_Applicaiton\MDI_Applicaiton\obj\Debug\MDI_Applicaiton.pdb
