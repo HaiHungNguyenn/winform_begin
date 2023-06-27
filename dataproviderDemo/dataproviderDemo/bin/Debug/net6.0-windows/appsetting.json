@@ -1,0 +1,6 @@
+{
+  "ConnectionString": {
+    //"MystoreDB": "Server = (local);uid=admin;pwd=123;database=MyStore",
+    "MyStoreDB": "server=(local);database=MyStore;uid=sa;pwd=12345; TrustServerCertificate=True"
+  }
+}
